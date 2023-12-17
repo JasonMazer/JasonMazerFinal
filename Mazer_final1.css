@@ -91,6 +91,9 @@ ol{
  	margin-bottom: 30px;
  	margin-top: 30px;
  	display: inline-block;
+ 	border: 3px solid skyblue;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
  }
  
 .iframe {
