@@ -67,7 +67,8 @@ h2{
 }
 ol{
 	float: right;
-	
+	margin-left: 5%;
+	margin-right: 5%;
 	border: 3px solid skyblue;
 	text-align: center;
 	font-family: 'Oswald', sans-serif;
@@ -98,84 +99,3 @@ ol{
 .footer {
 	background-color: indianred;
 }
-}
-.footer  { /* This is how you add styles for only the p text within the footer. */
-	background-color: #cccccc;
-	text-align: center;
-	font-size: 30px;
-	margin-bottom: 0;
-	font-family: 'Oswald', sans-serif;
-}
-.header {
-	height: auto;
-	font-weight: bold;
-	font-size: 60px;
-	text-align: center;
-	font-family: 'Oswald', sans-serif;
-	background-color: #C1FFF2;
-	color: black;
-
-}
-p {
-	font-family: 'Oswald', sans-serif;
-	font-size: 30px; 
-
-}
-h4 {
-	font-style: italic;
-	font-size: 50px;
-	font-family: 'Oswald', sans-serif;
-}
-h3 {
-	font-size: 40px;
-	font-family: 'Oswald', sans-serif;
-
-}
-h5 {font-style: italic;
-	font-size: 40px;
-	font-family: 'Oswald', sans-serif;
-	display: inline-block;
-	text-align: left;
-}
- 
-
-p {
-	font-family: 'Oswald', sans-serif;
-	font-size: 20px;
-}
-
-img{
-	float: middle;
-	margin-right: 5%;
-	margin-left: 5%;
-	width: 275px;
-	height: 175px;
-
-
-
-
-
-}
- img:hover {
- 	transform: scale(2.0);
- }
-
-h2{
-	float: right;
-	text-align: center;
-}
-ol{
-	float: right;
-	display: inline-block;
-	border: 3px solid skyblue;
-	text-align: center;
-	font-family: 'Oswald', sans-serif;
-
-}
-
-}
-
- 
-
-
-
